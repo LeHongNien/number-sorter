@@ -1,1 +1,1 @@
-# Number Sorter with bubble-sort/ selection-sort/ insertion-sort
+# Number Sorter done 3 different ways
