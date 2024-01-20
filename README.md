@@ -1,7 +1,7 @@
 # Number Sorter done 3 different ways
 
-### Bubble sort
+### 1. Bubble sort
 
-### Selection sort
+### 2. Selection sort
 
-### Insertion sort
+### 3. Insertion sort
